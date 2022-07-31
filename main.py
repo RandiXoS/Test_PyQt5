@@ -18,7 +18,10 @@ def Init():
 def main():
     Init()
     #print("Hello World!")
-#Si ya habi pensado en ese problema XD n
+
+
+# y como practicamos??
+
 if __name__ == "__main__":
     main()
 
