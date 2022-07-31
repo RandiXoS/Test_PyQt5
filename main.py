@@ -16,9 +16,10 @@ def Init():
 
 
 def main():
-    print("Hello World!")
+    Init()
+    #print("Hello World!")
 
-#pera actigo gitdoc
+
 
 if __name__ == "__main__":
     main()
