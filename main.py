@@ -20,8 +20,6 @@ def main():
     #print("Hello World!")
 
 
-# y como practicamos??
-
-if __name__ == "__main__":
-    main()
+# if __name__ == "__main__":
+#     main()
 
