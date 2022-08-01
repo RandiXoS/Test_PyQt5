@@ -16,4 +16,5 @@ def Init():
 
 def main():
     Init()
-  
+
+main()
