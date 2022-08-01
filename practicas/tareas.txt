@@ -1,1 +1,1 @@
-1- Login y registro de usuario.
+1- Login y registro de usuario. Hay una extension llamada Chat
